@@ -53,6 +53,7 @@
     - [!업체](search.md#업체)
     - [!비트](search.md#비트)
     - [!나무](search.md#나무)
+    - [!스팀](search.md#스팀)
   - [정보보기](info.md#정보보기)
     - [!내정보](info.md#내정보)
     - [!토픽](info.md#토픽)
