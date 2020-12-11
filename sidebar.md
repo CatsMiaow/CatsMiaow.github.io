@@ -54,6 +54,7 @@
     - [!비트](search.md#비트)
     - [!나무](search.md#나무)
     - [!스팀](search.md#스팀)
+    - [!실검](search.md#실검)
   - [정보보기](info.md#정보보기)
     - [!내정보](info.md#내정보)
     - [!토픽](info.md#토픽)
